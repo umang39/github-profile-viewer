@@ -1,0 +1,88 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot with follow button 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-btn-5"
+  disabled={false}
+  id="umang39"
+  onBlur={[Function]}
+  onClick={[MockFunction]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    Follow
+  </span>
+</button>
+`;
+
+exports[`matches snapshot with login button disabled 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-btn-5 Mui-disabled Mui-disabled"
+  disabled={true}
+  id="login-btn"
+  onBlur={[Function]}
+  onClick={[MockFunction]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={-1}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    submit
+  </span>
+</button>
+`;
+
+exports[`matches snapshot with login button not disabled 1`] = `
+<button
+  className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-btn-5"
+  disabled={false}
+  id="login-btn"
+  onBlur={[Function]}
+  onClick={[MockFunction]}
+  onDragLeave={[Function]}
+  onFocus={[Function]}
+  onKeyDown={[Function]}
+  onKeyUp={[Function]}
+  onMouseDown={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  tabIndex={0}
+  type="button"
+>
+  <span
+    className="MuiButton-label"
+  >
+    submit
+  </span>
+  <span
+    className="MuiTouchRipple-root"
+  />
+</button>
+`;

@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<h2
+  className="MuiTypography-root MuiTypography-h2 makeStyles-text-3 css-cq2q8w-MuiTypography-root"
+>
+  Oops ! You have no 
+  bio
+</h2>
+`;
+
+exports[`matches snapshot 2`] = `
+<h2
+  className="MuiTypography-root MuiTypography-h2 makeStyles-text-3 css-cq2q8w-MuiTypography-root"
+>
+  Oops ! You have no 
+  blog
+</h2>
+`;

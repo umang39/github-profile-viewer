@@ -1,0 +1,10 @@
+const STATUS_CODE = {
+  NOT_FOUND: 404,
+  SUCCESS: 200,
+  AUTH_DENIED: 401,
+  FOLLOW_SUCCESS: 204,
+  FORBIDDEN: 403,
+  BAD_REQ: 502,
+};
+
+export default STATUS_CODE;
